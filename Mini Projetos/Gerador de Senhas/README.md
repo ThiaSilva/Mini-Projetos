@@ -34,11 +34,11 @@ Permite ao usuário definir a chave base.
 3. **Digite a chave: Informe a chave base desejada:**
     ```Exemplo:
        Security
-    
 4. **Obtenha a senha: O script irá gerar e exibir a senha correspondente à chave.**
     ```Saida:
     %1412u*ity
 
+    
 ## Algoritmo:
 
 **Substituição:** 
