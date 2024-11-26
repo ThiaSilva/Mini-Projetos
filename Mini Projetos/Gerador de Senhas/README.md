@@ -25,7 +25,7 @@ Permite ao usuário definir a chave base.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://ThiaSilva/Mini-Projetos.git
 
 2. **Execute o Script no terminal:**
     ```Bash
