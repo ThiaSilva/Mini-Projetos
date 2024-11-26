@@ -33,11 +33,11 @@ Permite ao usuário definir a chave base.
 
 3. **Digite a chave: Informe a chave base desejada:**
     ```Exemplo:
-    _Security_ 
-
+       Security
+    
 4. **Obtenha a senha: O script irá gerar e exibir a senha correspondente à chave.**
-    Saida:
-    _%1412u*ity_
+    ```Saida:
+    %1412u*ity
 
 ## Algoritmo:
 
