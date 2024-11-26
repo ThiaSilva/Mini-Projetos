@@ -32,7 +32,7 @@ Permite ao usuário definir a chave base.
     python gerador_de_senhas.py
 
 3. **Digite a chave: Informe a chave base desejada:**
-    Exemplo:
+    ```Exemplo:
     _Security_ 
 
 4. **Obtenha a senha: O script irá gerar e exibir a senha correspondente à chave.**
