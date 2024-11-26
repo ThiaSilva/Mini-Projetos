@@ -36,7 +36,7 @@ Permite ao usuário definir a chave base.
        Security
 4. **Obtenha a senha: O script irá gerar e exibir a senha correspondente à chave.**
     ```Saida:
-    %1412u*ity
+       %1412u*ity
 ## Algoritmo:
 
 **Substituição:** 
